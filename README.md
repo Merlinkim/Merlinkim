@@ -1,3 +1,1 @@
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merlinkim)](https://github.com/Merlinkim/github-readme-stats)
